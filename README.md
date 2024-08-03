@@ -1,6 +1,6 @@
 Welcome to my chaotic corner of the IT world!
 
-Welcome to my bio, where sarcasm meets reality! I’m IT student juggling code, caffeine, and a perpetual state of “I’ll figure it out eventually” Here’s a little more about what makes me tick:
+Welcome to my bio, where sarcasm meets reality! I’m IT a student juggling code, caffeine, and a perpetual state of “I’ll figure it out eventually” Here’s a little more about what makes me tick:
 
 • Techie in Training: I’m in the process of mastering the art of speaking fluent tech jargon while pretending to understand it My superpower? Googling errors with the speed of light
 
