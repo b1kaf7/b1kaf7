@@ -4,6 +4,8 @@ Welcome to my bio, where sarcasm meets reality! with a perpetual state of I’ll
 
 ![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
+![GitHub Contribution Snake](https://github.com/b1kaf7/b1kaf7/blob/output/github-contribution-grid-snake.svg)
+
 ### 🌟 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
