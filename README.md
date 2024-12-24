@@ -2,9 +2,8 @@ Welcome to my chaotic corner of the IT world!
 
 Welcome to my bio, where sarcasm meets reality! with a perpetual state of I’ll figure it out eventually
 
-![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-![GitHub Contribution Snake](https://github.com/b1kaf7/b1kaf7/blob/output/github-contribution-grid-snake.svg)
+### 😄 Meme of the Day:
+![Random Meme](https://meme-api.herokuapp.com/gimme)
 
 ### 🌟 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
