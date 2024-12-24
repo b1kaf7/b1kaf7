@@ -2,7 +2,7 @@ Welcome to my chaotic corner of the IT world!
 
 Welcome to my bio, where sarcasm meets reality! with a perpetual state of I’ll figure it out eventually
 
-
+![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ### 🌟 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
