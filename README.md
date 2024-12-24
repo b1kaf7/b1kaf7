@@ -12,12 +12,7 @@ Welcome to my bio, where sarcasm meets reality! with a perpetual state of I’ll
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=b1kaf7&theme=radical)
-
-
-### 📈 Most Used Languages:
+### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1kaf7&layout=compact&theme=radical)
 <!---
 b1kaf7/b1kaf7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
