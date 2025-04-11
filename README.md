@@ -1,6 +1,6 @@
 Welcome to my chaotic corner of the IT world!
 
-Welcome to my bio, where sarcasm meets reality! with a perpetual state of I’ll figure it out eventually
+Welcome to my bio
 
 
 ### Tech Stack:
