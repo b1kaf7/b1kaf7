@@ -12,10 +12,12 @@ Welcome to my bio
 ![Prolog](https://img.shields.io/badge/Prolog-0E0E0E?style=for-the-badge&logo=prolog&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1kaf7&layout=compact&theme=radical)
+
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=b1kaf7&theme=dark)](https://git.io/streak-stats)
 <!---
 b1kaf7/b1kaf7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
