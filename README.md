@@ -15,7 +15,8 @@ Welcome to my bio
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB Logo" width="40" height="40" />
 
 ### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1kaf7&layout=compact&theme=radical)
