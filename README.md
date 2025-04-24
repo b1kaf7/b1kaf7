@@ -11,8 +11,11 @@ Welcome to my bio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Prolog](https://img.shields.io/badge/Prolog-0E0E0E?style=for-the-badge&logo=prolog&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg)
+
 
 ### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1kaf7&layout=compact&theme=radical)
