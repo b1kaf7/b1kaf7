@@ -21,6 +21,12 @@ Welcome to my bio
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1kaf7&layout=compact&theme=radical)
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=b1kaf7&theme=dark)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b1kaf7/b1kaf7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b1kaf7/b1kaf7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/b1kaf7/b1kaf7/output/github-snake.svg" />
+</picture>
 <!---
 b1kaf7/b1kaf7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
