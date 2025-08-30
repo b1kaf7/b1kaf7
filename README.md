@@ -28,7 +28,4 @@ Welcome to my bio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b1kaf7/b1kaf7/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/b1kaf7/b1kaf7/output/github-snake.svg" />
 </picture>
-<!---
-b1kaf7/b1kaf7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
